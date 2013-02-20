@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My loving oО]]></title>
-  <link href="http://iwin.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: life | My loving oО]]></title>
+  <link href="http://iwin.github.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://iwin.github.com/"/>
   <updated>2013-02-20T21:32:49+08:00</updated>
   <id>http://iwin.github.com/</id>
@@ -39,26 +39,6 @@
 <p>10、遇到自己爱的人一定要勇敢的去争取，假如她真的值得你去争取，到手了不要把他（她）揣兜里时间太长，经常拿出来在阳光底下晾一晾，此举不仅能昭告天下名花有主，更可以对你们的爱情进行一番考验，不要把爱情谈得太久，不要等对方的身体熟悉到屁股上有几个痦子都清楚的地步，在没达到最热烈的时候该结婚就结婚，豆腐都是好豆腐，时间长了一样变质，王致和虽然味道不错，但毕竟不是人人都能接受的，什么单身主义，什么惧怕围城，30岁以后，你会发现哪怕是年少时那个留着清鼻涕蹲在你家楼后面痴痴等你一宿的傻东西向你求婚，你都愿意答应他，你会发现条件会越来越低，有时你的念头会让自己都看不起自己，有时你会痛哭这世界真变态，连个值得爱的人都找不到。酒是陈的香，可是相信我，你绝对成不了法国庄园里的波尔多。</p>
 
 <p>后记—人生如一盘棋，执黑执白都无所谓，能一举成名的是极个别的少数，许多人都在半截了了账，每一步都是选择，只不过有些无关痛痒，有些却马虎不得，一朝失误，满盘皆输的人比比皆是，等某一天你对身边围着的人说：我这一盘棋终于下完了，而自我感觉没有什么遗憾的时候，那么恭喜你，你赢了。30而立。对有些人来说，30岁以前向左，30岁以后向右。30而立。对有些人来说，30岁以前是因，30岁以后是果。其实作为年轻人，你要知道：你的底线其实就是你拥有和掌握的真正实力，就是你自己——认识自己；修炼自己；提升自己；完善自己，你就能真正快乐自己——你就没有真正的底线，有的只是追求，进取！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://iwin.github.com/blog/2013/02/20/hello-world/"/>
-    <updated>2013-02-20T21:09:00+08:00</updated>
-    <id>http://iwin.github.com/blog/2013/02/20/hello-world</id>
-    <content type="html"><![CDATA[<h1>Hello World!</h1>
-
-<p>it is a new world.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[title1]]></title>
-    <link href="http://iwin.github.com/blog/2013/02/20/title1/"/>
-    <updated>2013-02-20T20:44:00+08:00</updated>
-    <id>http://iwin.github.com/blog/2013/02/20/title1</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

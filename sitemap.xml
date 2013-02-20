@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2013/02/20/title1/</loc>
+        <loc>http://iwin.github.com/blog/2013/02/20/title1/</loc>
         <lastmod>2013-02-20T20:44:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://iwin.github.com/blog/2013/02/20/hello-world/</loc>
+        <lastmod>2013-02-20T21:10:35+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://iwin.github.com/robots.txt</loc>
         <lastmod>2013-02-20T20:43:21+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-02-20T20:44:13+08:00</lastmod>
+        <loc>http://iwin.github.com/blog/archives/</loc>
+        <lastmod>2013-02-20T21:10:35+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-02-20T20:44:13+08:00</lastmod>
+        <loc>http://iwin.github.com/</loc>
+        <lastmod>2013-02-20T21:10:35+08:00</lastmod>
     </url>
 </urlset>

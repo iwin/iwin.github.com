@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://iwin.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: welcome | My Octopress Blog]]></title>
+  <link href="http://iwin.github.com/blog/categories/welcome/atom.xml" rel="self"/>
   <link href="http://iwin.github.com/"/>
   <updated>2013-02-20T21:10:49+08:00</updated>
   <id>http://iwin.github.com/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<h1>Hello World!</h1>
 
 <p>it is a new world.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[title1]]></title>
-    <link href="http://iwin.github.com/blog/2013/02/20/title1/"/>
-    <updated>2013-02-20T20:44:00+08:00</updated>
-    <id>http://iwin.github.com/blog/2013/02/20/title1</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
